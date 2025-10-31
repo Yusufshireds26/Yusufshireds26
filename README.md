@@ -1,7 +1,7 @@
 <!-- 🧠 Yusuf Shire | GitHub Profile README -->
 
 <p align="center">
-  <img src="A_banner_digital_graphic_design_features_Yusuf_Shi.png" alt="Yusuf Shire Banner" width="100%">
+  <img src="GITbanner.png" alt="Yusuf Shire Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
