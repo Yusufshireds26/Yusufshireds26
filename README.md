@@ -97,9 +97,11 @@ Python 🐍 • Pandas • NumPy • Scikit-Learn • Random Forest • Anomaly 
 
 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-shire-/)
 
+
 ### 📄 View My Resume
 
-📜 [**Resume (Google Drive)**](https://drive.google.com/file/d/14JcFWZ6wMlTtdwFPiqBXc3EKLh5lvJ4W/view?usp=sharing)
+📜 [**View / Download My Resume**](https://github.com/Yusufshireds26/Yusufshireds26/blob/main/Yusuf_Shire_Resume.pdf)
+
 
 ### ⚡ Fun Fact
 
